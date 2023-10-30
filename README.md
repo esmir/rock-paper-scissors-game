@@ -5,6 +5,7 @@ Rock Paper Scissors Game code that allows user to input rounds and keeps round a
 This is a basic Python Code for the game with functionalities like:
 
 -> Allows user to input the number of rounds.
+
 -> At the end, asks user if he wants to continue.
 
 The code uses the RPS class in Python to store placeholders for each of rock, paper, and scissors on top of each other, and then uses a while loop to prompt the player for their choice.
